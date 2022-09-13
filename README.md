@@ -9,7 +9,7 @@ pip install -r requirements.txt
 python3 E0.py # this is for run E0
 ```
 
-# Explaination
+# Explanation
 ## E0 Probability Algorithm For AI
 ```python
 def probability(um, rw, schat=False, req=[]):
